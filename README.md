@@ -71,10 +71,10 @@ cd retail-demand-forecasting
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
 # Step 1: run EDA and generate preprocessed_data.csv
-jupyter notebook notebooks/EDA.ipynb
+jupyter notebook EDA.ipynb
 
 # Step 2: train and evaluate the forecasting model
-jupyter notebook notebooks/Demand_Forecast.ipynb
+jupyter notebook Demand_Forecast.ipynb
 ```
 
 ## 📂 Repo Structure
