@@ -58,7 +58,7 @@ subsample, colsample_bytree, and min_child_weight.
 | MAE | 6.04 |
 
 **Feature importance confirms the EDA**: `Epidemic` and `Promotion` are the two
-most influential features in the trained model — the same two factors flagged as
+most influential features in the trained model - the same two factors flagged as
 having the strongest visual effect on demand during exploratory analysis. This
 agreement between EDA and model behavior is a strong internal consistency check:
 the patterns identified through visualization are the same ones the model learned
