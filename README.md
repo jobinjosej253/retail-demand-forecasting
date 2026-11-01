@@ -3,6 +3,7 @@
 End-to-end demand forecasting pipeline on 76,000+ retail transactions across 5
 product categories and 4 regions - from exploratory analysis of what drives demand
 to a tuned XGBoost model that predicts it with high accuracy.
+Dataset: https://github.com/Onurbltc/DemandForecastingDataset
 
 ## 📌 Objective
 - Understand what factors drive product demand (promotions, pricing, seasonality, external shocks)
